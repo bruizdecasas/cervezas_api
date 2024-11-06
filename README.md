@@ -29,5 +29,8 @@ Puedes instalarlas ejecutando:
 ```bash
 pip install pandas numpy
 ```
-Si deseas contribuir a este proyecto, por favor, realiza un fork del repositorio, crea una rama para tus cambios y abre un Pull Request.
+
+## Conclusión
+   - puedes consultar las conclusiones en la presentación con extensión .pptx 
+   - Si deseas contribuir a este proyecto, por favor, realiza un fork del repositorio, crea una rama para tus cambios y abre un Pull Request.
 
